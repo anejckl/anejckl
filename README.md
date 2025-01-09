@@ -3,12 +3,9 @@ Hi there! I'm a junior programmer with a passion for technology and an eagerness
 
 🌱 Learning Journey: I'm constantly expanding my skills, exploring new technologies, and building projects to challenge myself.
 💡 Curious Mind: I thrive on problem-solving and enjoy diving into the unknown to figure things out.
-💻 Tech Stack:
-Beginner in: JavaScript, Python, HTML/CSS
-Exploring: Angular, Node.js, APIs
-Open to learning: Anything that helps me grow as a developer!
 🤝 Collaborative Spirit: I value teamwork and believe in learning from others while contributing what I know.
 🎯 Goal-Oriented: My ultimate aim is to become a versatile and reliable developer capable of tackling real-world challenges.
+
 Feel free to check out my repositories, share feedback, or connect with me—I'm always open to learning something new! 😊
 
 # 💻 Tech Stack:
